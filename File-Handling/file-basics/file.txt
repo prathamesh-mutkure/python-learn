@@ -1,0 +1,3 @@
+Hello, this is Sample File.
+Learning File Handling in Python.Writing to file through Python
+Writing to file through Python
