@@ -152,3 +152,6 @@ fabric.properties
 
 # MacOS
 .DS_STORE
+
+# Others
+token.txt
