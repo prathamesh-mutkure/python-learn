@@ -1,0 +1,17 @@
+{% import "bootstrap/wtf.html" as wtf %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update Book</title>
+</head>
+<body>
+
+<h1>Book Name: {{ book.title }}</h1>
+<h3>Current Rating: {{ book.rating }}</h3>
+
+{{ wtf.quick_form(form) }}
+
+</body>
+</html>
